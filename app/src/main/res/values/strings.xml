@@ -1,0 +1,443 @@
+<resources>
+    <string name="app_name">MyanmarNRICPicker</string>
+
+    <string-array name="first_part">
+
+        <item>၁/</item>
+        <item>၂/</item>
+        <item>၃/</item>
+        <item>၄/</item>
+        <item>၅/</item>
+        <item>၆/</item>
+        <item>၇/</item>
+        <item>၈/</item>
+        <item>၉/</item>
+        <item>၁၀/</item>
+        <item>၁၁/</item>
+        <item>၁၂/</item>
+        <item>၁၃/</item>
+        <item>၁၄/</item>
+
+    </string-array>
+
+    <string-array name="sate_and_division">
+
+        <item>ကချင်ပြည်နယ်</item>
+        <item>ကယားပြည်နယ်</item>
+        <item>ကရင်ပြည်နယ်</item>
+        <item>ချင်းပြည်နယ်</item>
+        <item>စစ်ကိုင်းတိုင်းဒေသကြီး</item>
+        <item>တနင်္သာရီတိုင်းဒေသကြီး</item>
+        <item>ပဲခူးတိုင်းဒေသကြီး</item>
+        <item>မကွေးတိုင်းဒေသကြီး</item>
+        <item>မန္တလေးတိုင်းဒေသကြီး</item>
+        <item>မွန်ပြည်နယ်</item>
+        <item>ရခိုင်ပြည်နယ်</item>
+        <item>ရန်ကုန်တိုင်းဒေသကြီး</item>
+        <item>ရှမ်းပြည်နယ်</item>
+        <item>ဧရာဝတီတိုင်းဒေသကြီး</item>
+
+    </string-array>
+
+    <string-array name="second_partK1">
+
+        <item>မကန</item>
+        <item>ဝမန</item>
+        <item>ခဖန</item>
+        <item>ဆလန</item>
+        <item>တနန</item>
+        <item>အဂယ</item>
+        <item>မညန</item>
+        <item>မကန</item>
+        <item>ကမန</item>
+        <item>ဗမန</item>
+        <item>ရကန</item>
+        <item>မစန</item>
+        <item>မမန</item>
+        <item>ပတအ</item>
+        <item>ဆပဘ</item>
+        <item>မခဘ</item>
+        <item>ခဘဒ</item>
+        <item>နမန</item>
+
+    </string-array>
+
+    <string-array name="second_partK2">
+
+        <item>လကန</item>
+        <item>ဒမဆ</item>
+        <item>ဖရဆ</item>
+        <item>ရတန</item>
+        <item>ဘလခ</item>
+        <item>မစန</item>
+        <item>ဖဆန</item>
+
+    </string-array>
+
+    <string-array name="second_partK3">
+
+        <item>ဘအန</item>
+        <item>လဘန</item>
+        <item>သတန</item>
+        <item>ကကရ</item>
+        <item>ကဆက</item>
+        <item>မဝတ</item>
+        <item>ဖပန</item>
+
+    </string-array>
+
+    <string-array name="second_partK4">
+
+        <item>ဟခန</item>
+        <item>ထတလ</item>
+        <item>မတန</item>
+        <item>ပလဝ</item>
+        <item>မတပ</item>
+        <item>ကပလ</item>
+        <item>ဖလန</item>
+        <item>တတန</item>
+        <item>တဇန</item>
+
+    </string-array>
+    <string-array name="second_partK5">
+
+        <item>မရန</item>
+        <item>အရတ</item>
+        <item>ခဥတ</item>
+        <item>ဘတလ</item>
+        <item>စကန</item>
+        <item>မမန</item>
+        <item>မမတ</item>
+        <item>ကလထ</item>
+        <item>ကလဝ</item>
+        <item>မကန</item>
+        <item>ကသန</item>
+        <item>အတန</item>
+        <item>ဗမန</item>
+        <item>ကလတ</item>
+        <item>ပလဘ</item>
+        <item>ဝသန</item>
+        <item>ထခန</item>
+        <item>ခတန</item>
+        <item>ဟမလ</item>
+        <item>လရန</item>
+        <item>နယန</item>
+        <item>လဟန</item>
+        <item>မလန</item>
+        <item>ဖပန</item>
+        <item>ယမပ</item>
+        <item>ဆလက</item>
+        <item>ပလန</item>
+        <item>ကနန</item>
+        <item>ရဘန</item>
+        <item>ဒပယ</item>
+        <item>ကဘလ</item>
+        <item>ခဥန</item>
+        <item>ကလန</item>
+        <item>တဆန</item>
+        <item>ရဥန</item>
+        <item>ဝလန</item>
+        <item>တမန</item>
+
+    </string-array>
+
+    <string-array name="second_partK6">
+
+        <item>ထဝန</item>
+        <item>လလန</item>
+        <item>သရခ</item>
+        <item>ရဖန</item>
+        <item>မမန</item>
+        <item>တသရ</item>
+        <item>ကစန</item>
+        <item>ပလန</item>
+        <item>ကသန</item>
+        <item>ဘပန</item>
+
+    </string-array>
+
+    <string-array name="second_partK7">
+
+        <item>ပခန</item>
+        <item>ဒဥန</item>
+        <item>ကတခ</item>
+        <item>ကဝန</item>
+        <item>ညလပ</item>
+        <item>ရကန</item>
+        <item>သနပ</item>
+        <item>ဝမန</item>
+        <item>ပမန</item>
+        <item>ပတန</item>
+        <item>သကန</item>
+        <item>ပခတ</item>
+        <item>ပတတ</item>
+        <item>ရတန</item>
+        <item>သဝတ</item>
+        <item>မညန</item>
+        <item>အဖန</item>
+        <item>လပတ</item>
+        <item>မလန</item>
+        <item>နတလ</item>
+        <item>ဇကန</item>
+        <item>ကပက</item>
+        <item>တငန</item>
+        <item>ထတပ</item>
+        <item>ဖမန</item>
+        <item>အတန</item>
+        <item>ရတရ</item>
+        <item>ကကန</item>
+
+
+    </string-array>
+
+    <string-array name="second_partK8">
+
+        <item>မကန</item>
+        <item>နမန</item>
+        <item>မသန</item>
+        <item>တတက</item>
+        <item>ရနခ</item>
+        <item>ခမန</item>
+        <item>မဘန</item>
+        <item>ပဖန</item>
+        <item>ငဖန</item>
+        <item>စလန</item>
+        <item>စတရ</item>
+        <item>ဂဂန</item>
+        <item>ထလန</item>
+        <item>ဆမန</item>
+        <item>သရန</item>
+        <item>ဆပဝ</item>
+        <item>မတန</item>
+        <item>အလန</item>
+        <item>မလန</item>
+        <item>ကမန</item>
+        <item>ပခက</item>
+        <item>ဆဖန</item>
+        <item>ပမန</item>
+        <item>မမန</item>
+        <item>ရစက</item>
+
+    </string-array>
+    <string-array name="second_partK9">
+
+        <item>အမဇ</item>
+        <item>ခအဇ</item>
+        <item>ခမစ</item>
+        <item>မဟမ</item>
+        <item>ပကခ</item>
+        <item>ပသက</item>
+        <item>အမရ</item>
+        <item>ကဆန</item>
+        <item>မသန</item>
+        <item>စကတ</item>
+        <item>တတဥ</item>
+        <item>မထလ</item>
+        <item>မလန</item>
+        <item>သစန</item>
+        <item>ဝတန</item>
+        <item>မခန</item>
+        <item>နထက</item>
+        <item>ငဇန</item>
+        <item>တသန</item>
+        <item>ညဥန</item>
+        <item>ကပတ</item>
+        <item>မမန</item>
+        <item>မကန</item>
+        <item>စကန</item>
+        <item>သပက</item>
+        <item>မတရ</item>
+        <item>ရမသ</item>
+        <item>ပဘန</item>
+
+        <item>ဒခသ</item>
+        <item>လဝန</item>
+        <item>ပမန</item>
+        <item>ဇဗသ</item>
+        <item>ဥတသ</item>
+        <item>ပဗသ</item>
+        <item>တကန</item>
+        <item>ဇယသ</item>
+
+    </string-array>
+    <string-array name="second_partK10">
+
+        <item>မလမ</item>
+        <item>ရမန</item>
+        <item>ခဆန</item>
+        <item>ကမရ</item>
+        <item>မဒန</item>
+        <item>သဖရ</item>
+        <item>သထန</item>
+        <item>ဘလန</item>
+        <item>ကထန</item>
+        <item>ပမန</item>
+
+    </string-array>
+    <string-array name="second_partK11">
+
+        <item>စတန</item>
+        <item>ပတန</item>
+        <item>ပဏတ</item>
+        <item>ရသတ</item>
+        <item>ကဖန</item>
+        <item>ရဗန</item>
+        <item>အမန</item>
+        <item>မအန</item>
+        <item>မဥန</item>
+        <item>မပတ</item>
+        <item>မပန</item>
+        <item>ကတန</item>
+        <item>သတန</item>
+        <item>တကန</item>
+        <item>ဂမန</item>
+        <item>မတန</item>
+        <item>ဘသတ</item>
+
+    </string-array>
+    <string-array name="second_partK12">
+
+        <item>တမန</item>
+        <item>ဥကတ</item>
+        <item>ဒဂဆ</item>
+        <item>ဒဂတ</item>
+        <item>ဒဂမ</item>
+        <item>ဒဂရ</item>
+        <item>ဒပန</item>
+        <item>ပဇတ</item>
+        <item>ဗတထ</item>
+        <item>ဥကမ</item>
+        <item>ရကန</item>
+        <item>သဃက</item>
+        <item>သကတ</item>
+        <item>မဂတ</item>
+        <item>တကန</item>
+        <item>ထတပ</item>
+        <item>မဂဒ</item>
+        <item>မဘန</item>
+        <item>ရပသ</item>
+        <item>လကန</item>
+        <item>လသယ</item>
+        <item>အစန</item>
+        <item>ကတန</item>
+        <item>ကခက</item>
+        <item>ကကက</item>
+        <item>ကမန</item>
+        <item>ခရန</item>
+        <item>ဆကခ</item>
+        <item>တတန</item>
+        <item>ဒလန</item>
+        <item>သလန</item>
+        <item>သခန</item>
+        <item>ကမရ</item>
+        <item>ကတတ</item>
+        <item>ကမတ</item>
+        <item>စခန</item>
+        <item>ဆကန</item>
+        <item>ဒဂန</item>
+        <item>ဗဟန</item>
+        <item>မရက</item>
+        <item>လမတ</item>
+        <item>လသန</item>
+        <item>လမန</item>
+        <item>အလန</item>
+        <item>ပဘတ</item>
+
+    </string-array>
+    <string-array name="second_partK13">
+
+        <item>တကန</item>
+        <item>ဆဆန</item>
+        <item>ကလန</item>
+        <item>ရစန</item>
+        <item>ညရန</item>
+        <item>ပတယ</item>
+        <item>ပလန</item>
+        <item>ရငန</item>
+        <item>ဖခန</item>
+        <item>ဟပန</item>
+        <item>ကတန</item>
+        <item>မခန</item>
+        <item>မယန</item>
+        <item>မပတ</item>
+        <item>တခလ</item>
+        <item>မဖန</item>
+        <item>မယတ</item>
+        <item>ပယန</item>
+        <item>မမတ</item>
+        <item>မဘန</item>
+        <item>မဆန</item>
+        <item>မတန</item>
+        <item>မဆတ</item>
+        <item>ကခန</item>
+        <item>နခန</item>
+        <item>လခတ</item>
+        <item>မနန</item>
+        <item>မပန</item>
+        <item>မမန</item>
+        <item>လလန</item>
+        <item>ကဟန</item>
+        <item>လခန</item>
+        <item>မကန</item>
+        <item>မရန</item>
+        <item>ကသန</item>
+        <item>နစန</item>
+        <item>လရန</item>
+        <item>သနန</item>
+        <item>ကလန</item>
+        <item>မရတ</item>
+        <item>တယန</item>
+        <item>ကမန</item>
+        <item>သပန</item>
+        <item>မတတ</item>
+        <item>နဆန</item>
+        <item>နမတ</item>
+        <item>နခတ</item>
+        <item>လကန</item>
+        <item>ကကန</item>
+        <item>ဟပန</item>
+
+    </string-array>
+    <string-array name="second_partK14">
+
+        <item>ပသန</item>
+        <item>ကကထ</item>
+        <item>ကပန</item>
+        <item>ငပတ</item>
+        <item>သပန</item>
+        <item>ကကန</item>
+        <item>ရကန</item>
+        <item>မအပ</item>
+        <item>ဓနဖ</item>
+        <item>ပတန</item>
+        <item>ညတန</item>
+        <item>ဟသတ</item>
+        <item>ဇလန</item>
+        <item>ကခန</item>
+        <item>မအန</item>
+        <item>အဂပ</item>
+        <item>လမန</item>
+        <item>မမန</item>
+        <item>ဝခမ</item>
+        <item>အမန</item>
+        <item>ဖပန</item>
+        <item>ဘကလ</item>
+        <item>ဒဒရ</item>
+        <item>ကလန</item>
+        <item>လပတ</item>
+        <item>မမက</item>
+
+    </string-array>
+
+    <string-array name="third_part">
+
+        <item>(နိုင်)</item>
+        <item>(သ)</item>
+        <item>(ပြု)</item>
+        <item>(ဧည့်)</item>
+        <item>(စီ)</item>
+
+    </string-array>
+
+    <string name="number_hint">123456</string>
+</resources>
