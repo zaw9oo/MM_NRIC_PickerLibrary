@@ -1,2 +1,3 @@
+include ':MM_NRIC_Picker'
 include ':app'
 rootProject.name = "MyanmarNRICPicker"
